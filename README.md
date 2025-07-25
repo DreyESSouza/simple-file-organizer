@@ -1,6 +1,6 @@
-# File Organizer (Python + CustomTkinter + OS)
+# File Organizer (Python + OS + CustomTkinter )
 
-A simple file organizer with a graphical interface built using **Python** and **CustomTkinter**.  
+A simple file organizer with a graphical interface built using **Python**, **OS** and **CustomTkinter**.  
 It automatically classifies files into folders based on their extensions.
 
 ---
